@@ -1,0 +1,19 @@
+{
+  "name": "letstakenotes",
+  "version": "1.0.0",
+  "description": "<img src=\"./img/readmegenerator.png\" alt=\"screenshot of Team Profile Generator\" height=\"300px\"/>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hartsfieldt/letstakenotes.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hartsfieldt/letstakenotes/issues"
+  },
+  "homepage": "https://github.com/hartsfieldt/letstakenotes#readme"
+}
