@@ -1,6 +1,6 @@
 # Professional Note Taker
 
-<img src="./img/readmegenerator.png" alt="screenshot of Team Profile Generator" height="300px"/>
+<img src="./img/readmegenerator.png" alt="screenshot of ..." height="300px"/>
 
 ## Purpose
 
@@ -19,8 +19,9 @@ Note-taking application
 ## Screencastify
 
 ## Website
-
+https://hartsfieldt.github.io/letstakenotes/
 ## Git Hub
+https://github.com/hartsfieldt/letstakenotes
 
 ## Contribution
 
