@@ -6,14 +6,34 @@
       "id": "001"
     },
     {
-      "title": "Finish homework",
-      "text": "mod 11 ",
-      "id": "2ab91768-88c6-419c-a3e0-474486973c1a"
+      "title": "Finish Challenge",
+      "text": "Module 11 assignment\n",
+      "id": "554faa51-5434-4d23-aac2-8785a8b78d3d"
     },
     {
-      "title": "wash my shirt",
-      "text": "now",
-      "id": "9d8585d4-be6c-49e8-97fc-338db2bd8d6a"
+      "title": "Finish all unassigned task",
+      "text": "check suporta log",
+      "id": "be708aaf-0bae-4e1c-8e6e-7d67472aedce"
+    },
+    {
+      "title": "Submit assignment",
+      "text": "via BCS",
+      "id": "55dc6128-a0b7-48fa-b3ad-4cff01770300"
+    },
+    {
+      "title": "Schedule tutoring session ",
+      "text": "via calendar link",
+      "id": "04440d2f-6ac9-4431-abb1-3fc8f3315c70"
+    },
+    {
+      "title": "Watch Youtube videos ",
+      "text": "on coding in SQL",
+      "id": "8acbf64a-4674-4101-9547-f228f707c9be"
+    },
+    {
+      "title": "Finish assignement",
+      "text": "mod 11",
+      "id": "9308595a-ecab-41a7-b117-e5261fac762e"
     }
   ]
 }
