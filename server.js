@@ -3,7 +3,7 @@ const app = express();
 // Use required port or 3001
 const PORT = process.env.PORT || 3001;
 
-// Routes
+// Modularized routes
 const htmlRoutes = require("./routes/htmlRoutes");
 const apiRoutes = require("./routes/apiRoutes");
 
