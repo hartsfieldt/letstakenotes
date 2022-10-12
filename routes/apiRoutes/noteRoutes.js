@@ -6,7 +6,7 @@ const uuid = require("uuid");
 router.get("/notes", (req, res) => {
   res.json(notes);
 });
-// Get notes and
+// Get notes
 router.get("/notes/:id", (req, res) => {
   const result = findById(req.params.id, notes);
   if (result) {
